@@ -1,0 +1,18 @@
+//UTILITIES
+@import "./src/scss/utilities/mixins";
+@import "./src/scss/utilities/variables";
+@import "./src/scss/utilities/helper";
+//BASE
+@import "./src/scss/base/reset";
+@import "./src/scss/base/typography";
+//COMPONENT
+@import "./src/scss/components/buttons";
+//LAYOUT
+@import "./src/scss/layout/navigation";
+@import "./src/scss/layout/grid";
+@import "./src/scss/layout/footer";
+@import "./src/scss/layout/header";
+@import "./src/scss/layout/forms";
+//PAGES
+@import "./src/scss/pages/contact";
+@import "./src/scss/pages/home";
